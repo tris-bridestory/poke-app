@@ -1,0 +1,2 @@
+(this["webpackJsonppoke-app"]=this["webpackJsonppoke-app"]||[]).push([[1],{55:function(e,c,s){"use strict";s.r(c);s(0);var t=s(15),n=s(53),j=s(54),p=s(3);c.default=function(){return Object(p.jsxs)(n.a,{children:[Object(p.jsx)(j.a,{children:Object(p.jsx)(t.b,{to:"/",children:Object(p.jsx)("span",{children:"Home"})})}),Object(p.jsx)(j.a,{children:Object(p.jsx)(t.b,{to:"/pokedex",children:Object(p.jsx)("span",{children:"Pokedex"})})})]})}}}]);
+//# sourceMappingURL=1.d25ea35f.chunk.js.map
