@@ -150,24 +150,6 @@ const PokemonDetail = () => {
       </ul>
       <button onClick={() => capturePokemon(currentPokemon)}>Catch Pokemon</button>
       <ModalBox onChange={handleNameOnChange.bind(this)} onSubmit={submitForm.bind(this)} />
-      {/* <div id="myModal" className="modal">
-        <div className="modal-content">
-          <div className="modal-header">
-            <span className="close">&times;</span>
-            <h2>Modal Header</h2>
-          </div>
-          <div className="modal-body">
-            <form onSubmit={submitForm}>
-              <label>
-                Enter Nickname
-                <input type="text" placeholder="Insert pokemon name" onChange={handleNameOnChange} />
-              </label>
-              <input type="submit" value="Submit" />
-              <span style={{color:'red',display:'none'}} className="validation">Name is already taken</span>
-            </form>
-          </div>
-        </div>
-      </div> */}
     </div>
   )
 }
