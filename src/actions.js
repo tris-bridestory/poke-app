@@ -1,0 +1,6 @@
+export const CAPTURE = 'CAPTURE';
+export const RELEASE = 'RELEASE';
+export const ADD_POKEMON = 'ADD_POKEMON';
+export const ADD_POKEMONS = 'ADD_POKEMONS';
+export const FETCH_POKEMON = 'FETCH_POKEMON';
+export const UPDATE_CAPTURED_POKEMON = 'UPDATE CAPTURED POKEMON';
